@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This is a very simmple basic Tic-Tac-Toe game made in React Native. Here the player plays against the computer. The player uses "X" and computer uses "O" in the game.
+This is a very simple basic Tic-Tac-Toe game made in React Native. Here the player plays against the computer. The player uses "X" and computer uses "O" in the game.
 
 The difficulty of this game is Novice level.
 
